@@ -1,0 +1,1 @@
+*/1 * * * * /usr/bin/python3 /home/rpi/Desktop/BLE-Positioning/Positioning-script.py >> /path/to/logfile.log 2>&1
